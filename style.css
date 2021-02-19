@@ -1,0 +1,45 @@
+.scoller {
+ padding: 20px;
+  left: 200px;
+  font-size: medium;
+  background-position: 20Px pink;
+
+
+
+}
+
+.id {
+max-width: 300;
+border-width: 200;
+background-color: beige ;
+
+}
+
+.max{
+  background-color: blue
+}
+
+input{
+  font-weight:  30px;
+  background-color: pink;
+  border-top-left-radius: 0%;
+}
+
+button
+{
+  padding : 20 
+  
+}
+
+colgroup {
+
+  background-origin: padding-box;
+}
+
+#java {
+  padding-left: 60;
+  padding-top: 20;
+  padding-right: 2rem;
+  padding-inline-start: 6;
+  padding-bottom: 2;
+}
